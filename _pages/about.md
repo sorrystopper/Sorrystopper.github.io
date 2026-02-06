@@ -196,7 +196,7 @@ Experience
       <img src="../images/NUAA.png" alt="NUAA logo" class="experience-logo">
       <div class="experience-info">
           <strong>Nanjing University of Aeronautics and Astronautics</strong><br>
-          Sep 2021 - Jun 2025<br> Undergraduate Student,advised by <a href="https://lipiji.com/"><em>Prof. Piji Li</em></a>
+          Sep 2021 - Jun 2025<br> Undergraduate Student, advised by <a href="https://lipiji.com/"><em>Prof. Piji Li</em></a>
       </div>
   </div>
 
