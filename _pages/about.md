@@ -187,7 +187,7 @@ redirect_from:
 News
 ---------------
 - *[FlowGen](https://openreview.net/pdf?id=uimrBBfDCH) was accepted by ICLR 2026 &#128293;*
-- *[FormulaReasoning](https://arxiv.org/pdf/2402.12692) is under review at ACL &#128293;*
+- *[FormulaReasoning](https://arxiv.org/pdf/2402.12692) was accepted by ACL Findings 2026 &#128293;*
 
 Experience
 --------------
